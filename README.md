@@ -38,3 +38,10 @@ Which compliance regulations does Botium Toys need to adhere to, to ensure the c
 
 [Botium-Toys_-Audit-scope-and-goals.docx](https://github.com/codevalencia/conductsecurityaudit_part1/files/11621336/Botium-Toys_-Audit-scope-and-goals.docx) <br>
 [Botium-Toys_-Risk-assessment.docx](https://github.com/codevalencia/conductsecurityaudit_part1/files/11621337/Botium-Toys_-Risk-assessment.docx)
+
+Documents needed for Audit
+
+[Compliance-checklist.docx](https://github.com/codevalencia/conductsecurityaudit_part1/files/11621356/Compliance-checklist.docx) <br> 
+[Controls-assessment.docx](https://github.com/codevalencia/conductsecurityaudit_part1/files/11621358/Controls-assessment.docx)
+
+
